@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LAB08-Mamanchura.props" />
+</Project>
